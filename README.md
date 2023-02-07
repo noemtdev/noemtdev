@@ -6,6 +6,6 @@
 </a></p>
 🌐・**Website: [https://blockgame.bot](https://bot.nom-nom.link)**
 
-<a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/352793093105254402.png"/></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noemtdev&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages" alt="noemtdev" />
+<img align="left" src="https://discord.c99.nl/widget/theme-2/352793093105254402.png"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=noemtdev&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages" alt="noemtdev" />
  
