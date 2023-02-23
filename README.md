@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/noemtdev" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/noemtdev" alt="Profile Forks"></a>
 
-📩・**Want to talk? Add [noemtdev#1111](https://discord.com/users/352793093105254402) on [Discord](https://discord.gg/blockgamebot)**
+📩・**Want to talk? Add [nom#1111](https://discord.com/users/352793093105254402) on [Discord](https://discord.gg/blockgamebot)**
 </a></p>
 🌐・**Website: [https://blockgame.bot](https://bot.nom-nom.link)**
 
