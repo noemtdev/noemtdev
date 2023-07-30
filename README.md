@@ -8,6 +8,7 @@
 </a></p>
 🤖・**Bot Invite: [Click!](https://discord.com/application-directory/1083791195114852352)**
 
-![image](https://i.e-z.host/ysspi5js.png)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noemtdev&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages" alt="noemtdev" />
+
+![image](https://i.e-z.host/7x11aiiw.png)
  
