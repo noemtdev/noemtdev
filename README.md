@@ -8,6 +8,6 @@
 </a></p>
 🤖・**Bot Invite: [Click!](https://discord.com/application-directory/1083791195114852352)**
 
-<img src="[https://discord.c99.nl/widget/theme-2/352793093105254402.png](https://discord.com/assets/8b3efa4cbe0bd215b4902188010632d5.svg)"/>
+<img src="https://discord.c99.nl/widget/theme-2/352793093105254402.png](https://discord.com/assets/8b3efa4cbe0bd215b4902188010632d5.svg)](https://i.e-z.host/ysspi5js.png"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noemtdev&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages" alt="noemtdev" />
  
