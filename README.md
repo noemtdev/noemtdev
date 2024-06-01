@@ -1,8 +1,48 @@
-<img src="https://komarev.com/ghpvc/?username=noemtdev&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/noemtdev" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/noemtdev" alt="Profile Forks"></a>
+<h2 align="left"></h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=noemtdev&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages" alt="noemtdev" />
+###
 
-![image](https://i.e-z.host/7x11aiiw.png)
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noemtdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noemtdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/noemtdev/noemtdev/output/snake.svg" alt="Snake animation" />
+
+###
